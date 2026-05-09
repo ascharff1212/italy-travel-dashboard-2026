@@ -159,7 +159,7 @@ function buildItinerary(events) {
           time: prettyTime(event.start),
           title: event.title,
           location: event.location,
-          description: event.description,
+          description: "",
           start: event.start,
           end: event.end,
           url: event.url,
