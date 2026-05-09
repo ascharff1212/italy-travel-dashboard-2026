@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Italy Travel Dashboard</title>
+    <link rel="preconnect" href="https://images.unsplash.com" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="side-panel" aria-label="Trip navigation">
+        <a class="brand" href="#overview" aria-label="Italy dashboard overview">
+          <span class="brand-mark">IT</span>
+          <span>
+            <strong>Italy Dashboard</strong>
+            <small>Sample draft</small>
+          </span>
+        </a>
+
+        <section class="panel-section">
+          <div class="section-label">Visual Direction</div>
+          <div class="theme-grid" role="group" aria-label="Choose visual style">
+            <button class="theme-choice active" type="button" data-theme-choice="amalfi">
+              <span class="theme-swatch amalfi"></span>
+              Luxury Magazine
+            </button>
+            <button class="theme-choice" type="button" data-theme-choice="terra">
+              <span class="theme-swatch terra"></span>
+              Clean Modern Travel
+            </button>
+            <button class="theme-choice" type="button" data-theme-choice="renaissance">
+              <span class="theme-swatch renaissance"></span>
+              Classic Italian
+            </button>
+          </div>
+        </section>
+
+        <section class="panel-section">
+          <div class="section-label">Travel Days</div>
+          <nav class="day-nav" id="dayNav" aria-label="Daily itinerary"></nav>
+        </section>
+      </aside>
+
+      <main class="main-stage">
+        <header class="trip-hero">
+          <div class="hero-media" aria-hidden="true"></div>
+          <div class="hero-content">
+            <div class="eyebrow">Three-week Italy itinerary</div>
+            <h1>Italy, day by day</h1>
+            <p>
+              A polished travel command center for flights, villas, restaurants, vineyards,
+              routes, links, and day-by-day plans.
+            </p>
+            <div class="hero-actions">
+              <a class="primary-action" href="#day-1">Start Day 1</a>
+              <a class="secondary-action" href="./restaurants.html">Restaurants</a>
+              <a class="secondary-action" href="./wineries.html">Wineries</a>
+              <a class="secondary-action" href="./design-samples.html">View design samples</a>
+              <a class="secondary-action" href="./tripit-linking-guide.md">TripIt setup guide</a>
+            </div>
+          </div>
+        </header>
+
+        <section class="overview-band" id="overviewBand" aria-label="Trip overview"></section>
+        <section class="privacy-band" aria-label="Private details unlock">
+          <div>
+            <strong>Private Details</strong>
+            <span>Family-safe dashboard view is on. Enter your passkey to reveal owner-only details when we add them.</span>
+          </div>
+          <form id="passkeyForm" class="passkey-form">
+            <input id="passkeyInput" type="password" inputmode="numeric" autocomplete="off" placeholder="Passkey" aria-label="Passkey" />
+            <button type="submit">Unlock</button>
+          </form>
+          <p id="passkeyStatus" class="passkey-status" aria-live="polite"></p>
+        </section>
+        <section class="content-grid" id="contentGrid"></section>
+      </main>
+    </div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

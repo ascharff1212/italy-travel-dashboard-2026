@@ -1,0 +1,713 @@
+{
+  "importedAt": "2026-05-09T14:44:38.330Z",
+  "tripName": "Italy Trip",
+  "days": [
+    {
+      "day": 1,
+      "date": "2026-05-19",
+      "city": "Panzano in Chianti",
+      "title": "Tuscany Val d'Orcia",
+      "summary": "2 TripIt items scheduled for this day.",
+      "route": {
+        "from": "DEN",
+        "to": "MUC",
+        "mode": "Flight",
+        "distance": "Open map",
+        "time": "Live"
+      },
+      "events": [
+        {
+          "time": "All day",
+          "title": "Tuscany Val d'Orcia",
+          "location": "Panzano in Chianti, Italy",
+          "description": "Alan Scharff is in Panzano in Chianti, Italy from May 19 to Jun 7, 2026\nView and/or edit details in TripIt : https://www.tripit.com/trip/show?id=375369141\nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-19",
+          "end": "2026-06-08",
+          "url": ""
+        },
+        {
+          "time": "10:05 PM",
+          "title": "LH481 DEN to MUC",
+          "location": "Denver (DEN)",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\nTue, May 19\n4:05 PM MDT\n[Flight] DEN to MUC\n \n\nLufthansa 481, Terminal , Gate \n \n\n \nWed, May 20\n9:40 AM CEST\nArrive Munich (MUC)\nTerminal 2, Gate \n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-19T22:05:00",
+          "end": "2026-05-20T07:40:00",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2026-05-20",
+      "city": "Munich",
+      "title": "Check-in: Andaz Munich Schwabinger Tor",
+      "summary": "1 TripIt item scheduled for this day.",
+      "route": {
+        "from": "Leopoldstrasse 170, Munich, DE 80804",
+        "to": "Leopoldstrasse 170, Munich, DE 80804",
+        "mode": "Directions",
+        "distance": "Open map",
+        "time": "Live"
+      },
+      "events": [
+        {
+          "time": "1:00 PM",
+          "title": "Check-in: Andaz Munich Schwabinger Tor",
+          "location": "Leopoldstrasse 170, Munich, DE 80804",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n3:00 PM CEST\n[Lodging] Arrive Andaz Munich Schwabinger Tor\nCheck-In: 3:00pm\nLeopoldstrasse 170, Munich, DE 80804\n+49899042191234\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-20T13:00:00",
+          "end": "2026-05-20T14:00:00",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "date": "2026-05-21",
+      "city": "Italy",
+      "title": "Completely Wide Open",
+      "summary": "1 TripIt item scheduled for this day.",
+      "route": {
+        "from": "Start",
+        "to": "Destination",
+        "mode": "Directions",
+        "distance": "Open map",
+        "time": "Live"
+      },
+      "events": [
+        {
+          "time": "6:00 AM",
+          "title": "Completely Wide Open",
+          "location": "",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\nThu, May 21\n8:00 AM CEST\n[Activity] Completely Wide Open\n8:00am to 10:00pm\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-21T06:00:00",
+          "end": "2026-05-21T20:00:00",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "date": "2026-05-22",
+      "city": "Munich (MUC)",
+      "title": "Check-in: Azienda Agricola Il Palagio",
+      "summary": "5 TripIt items scheduled for this day.",
+      "route": {
+        "from": "MUC",
+        "to": "FLR",
+        "mode": "Flight",
+        "distance": "Open map",
+        "time": "Live"
+      },
+      "events": [
+        {
+          "time": "5:55 AM",
+          "title": "LH9436 MUC to FLR",
+          "location": "Munich (MUC)",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\nFri, May 22\n7:55 AM CEST\n[Flight] MUC to FLR\n \n\nAir Dolomiti 8192, Terminal 2, Gate \n \n\n9:10 AM CEST\nArrive Florence (FLR)\nTerminal , Gate \n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-22T05:55:00",
+          "end": "2026-05-22T07:10:00",
+          "url": ""
+        },
+        {
+          "time": "8:00 AM",
+          "title": "Pick Up Rental Car: AVIS",
+          "location": "Aeroporto Di Firenze Peretola , Firenze, 50127 IT",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n10:00 AM CEST\n[Car Rental] Pick Up AVIS Car Rental\nPick-Up: 10:00am\nAeroporto Di Firenze Peretola , Firenze, 50127 IT\n(39) 55315588, Sun - Sat 8:00 AM - 11:00 PM\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-22T08:00:00",
+          "end": "2026-05-22T09:00:00",
+          "url": ""
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Check-out: Andaz Munich Schwabinger Tor",
+          "location": "Leopoldstrasse 170, Munich, DE 80804",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n12:00 PM CEST\n[Lodging] Depart Andaz Munich Schwabinger Tor\nCheck-Out: 12:00pm\nLeopoldstrasse 170, Munich, DE 80804\n+49899042191234\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-22T10:00:00",
+          "end": "2026-05-22T11:00:00",
+          "url": ""
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Check-in: Azienda Agricola Il Palagio",
+          "location": "Via Case Sparse (panzano), 38, 50022 Panzano In Chianti FI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n3:00 PM CEST\n[Lodging] Arrive Azienda Agricola Il Palagio\nCheck-In: 3:00pm\nVia Case Sparse (panzano), 38, 50022 Panzano In Chianti FI, Italy\n338 399 7004\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-22T13:00:00",
+          "end": "2026-05-22T14:00:00",
+          "url": ""
+        },
+        {
+          "time": "5:15 PM",
+          "title": "Ristorante Oltre Il Giardino",
+          "location": "Piazza Gastone Bucciarelli, 42, 50022 Panzano In Chianti FI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n7:15 PM CEST\n[Restaurant] Ristorante Oltre Il Giardino\nPiazza Gastone Bucciarelli, 42, 50022 Panzano In Chianti FI, Italy\n055 852828\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-22T17:15:00",
+          "end": "2026-05-22T18:15:00",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "date": "2026-05-23",
+      "city": "Italy",
+      "title": "Completely Wide Open",
+      "summary": "1 TripIt item scheduled for this day.",
+      "route": {
+        "from": "Start",
+        "to": "Destination",
+        "mode": "Directions",
+        "distance": "Open map",
+        "time": "Live"
+      },
+      "events": [
+        {
+          "time": "6:00 AM",
+          "title": "Completely Wide Open",
+          "location": "",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\nSat, May 23\n8:00 AM CEST\n[Activity] Completely Wide Open\n8:00am to 11:00pm\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-23T06:00:00",
+          "end": "2026-05-23T21:00:00",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "date": "2026-05-24",
+      "city": "Gaiole in Chianti",
+      "title": "Castello di Meleto Wedding venue",
+      "summary": "2 TripIt items scheduled for this day.",
+      "route": {
+        "from": "Meleto Castle; CCXH+J7, Località Castello di Meleto, Gaiole in Chianti, Italy",
+        "to": "Relais Chateaux Il Falconiere & Spa; Località S. Martino Bocena, 370, Cortona AR, Italy",
+        "mode": "Directions",
+        "distance": "Open map",
+        "time": "Live"
+      },
+      "events": [
+        {
+          "time": "9:30 AM",
+          "title": "Castello di Meleto Wedding venue",
+          "location": "Meleto Castle; CCXH+J7, Località Castello di Meleto, 53013 Gaiole in Chianti SI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\nSun, May 24\n11:30 AM CEST\n[Activity] Castello di Meleto Wedding venue\nCCXH+J7, Località Castello di Meleto, 53013 Gaiole in Chianti SI, Italy\n11:30am to 12:30pm\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-24T09:30:00",
+          "end": "2026-05-24T10:30:00",
+          "url": ""
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Relais il Falconiere Wedding venue",
+          "location": "Relais Chateaux Il Falconiere & Spa; Località S. Martino Bocena, 370, 52044 Cortona AR, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n4:00 PM CEST\n[Activity] Relais il Falconiere Wedding venue\nLocalità S. Martino Bocena, 370, 52044 Cortona AR, Italy\n4:00pm to 5:00pm\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-24T14:00:00",
+          "end": "2026-05-24T15:00:00",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "date": "2026-05-25",
+      "city": "Trequanda",
+      "title": "Borgo Sant’Ambrogio Wedding venue",
+      "summary": "3 TripIt items scheduled for this day.",
+      "route": {
+        "from": "Borgo Sant'Ambrogio; Loc. Sant'Ambrogio, 29, Trequanda, Italy",
+        "to": "Strada Pietracupa, 31, Madonna di Pietracupa, Italy",
+        "mode": "Directions",
+        "distance": "Open map",
+        "time": "Live"
+      },
+      "events": [
+        {
+          "time": "8:30 AM",
+          "title": "Borgo Sant’Ambrogio Wedding venue",
+          "location": "Borgo Sant'Ambrogio; Loc. Sant'Ambrogio, 29, 53020 Trequanda SI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\nMon, May 25\n10:30 AM CEST\n[Activity] Borgo Sant’Ambrogio Wedding venue\nLoc. Sant'Ambrogio, 29, 53020 Trequanda SI, Italy\n10:30am to 11:30am\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-25T08:30:00",
+          "end": "2026-05-25T09:30:00",
+          "url": ""
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Borgo Tre Rose Wedding Venue",
+          "location": "Borgo Tre Rose - Country Hotel Montepulciano; Via dei Palazzi, 5, 53045 Montepulciano SI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n2:00 PM CEST\n[Activity] Borgo Tre Rose Wedding Venue\nVia dei Palazzi, 5, 53045 Montepulciano SI, Italy\n2:00pm to 3:00pm\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-25T12:00:00",
+          "end": "2026-05-25T13:00:00",
+          "url": ""
+        },
+        {
+          "time": "5:30 PM",
+          "title": "La Locanda di Pietracupa",
+          "location": "Strada Pietracupa, 31, 50028 Madonna di Pietracupa FI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n7:30 PM CEST\n[Restaurant] La Locanda di Pietracupa\nStrada Pietracupa, 31, 50028 Madonna di Pietracupa FI, Italy\n+39 055 807 2400\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-25T17:30:00",
+          "end": "2026-05-25T18:30:00",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "date": "2026-05-26",
+      "city": "Gaiole in Chianti",
+      "title": "Castello di Ama lunch and wine tasting",
+      "summary": "2 TripIt items scheduled for this day.",
+      "route": {
+        "from": "Castello di Ama; Località Ama in Chianti, Gaiole in Chianti, Italy",
+        "to": "Via Lamole, Greve in Chianti, Italy",
+        "mode": "Directions",
+        "distance": "Open map",
+        "time": "Live"
+      },
+      "events": [
+        {
+          "time": "9:30 AM",
+          "title": "Castello di Ama lunch and wine tasting",
+          "location": "Castello di Ama; Località Ama in Chianti, 53013 Gaiole in Chianti SI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\nTue, May 26\n11:30 AM CEST\n[Activity] Castello di Ama lunch and wine tasting\nLocalità Ama in Chianti, 53013 Gaiole in Chianti SI, Italy\n11:30am to 12:30pm\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-26T09:30:00",
+          "end": "2026-05-26T10:30:00",
+          "url": ""
+        },
+        {
+          "time": "5:30 PM",
+          "title": "Lamole di Lamole",
+          "location": "Via Lamole, 50022 Greve in Chianti FI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n7:30 PM CEST\n[Restaurant] Lamole di Lamole\nVia Lamole, 50022 Greve in Chianti FI, Italy\n342 091 2853\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-26T17:30:00",
+          "end": "2026-05-26T18:30:00",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "date": "2026-05-27",
+      "city": "Italy",
+      "title": "Completely Wide Open",
+      "summary": "1 TripIt item scheduled for this day.",
+      "route": {
+        "from": "Start",
+        "to": "Destination",
+        "mode": "Directions",
+        "distance": "Open map",
+        "time": "Live"
+      },
+      "events": [
+        {
+          "time": "6:00 AM",
+          "title": "Completely Wide Open",
+          "location": "",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\nWed, May 27\n8:00 AM CEST\n[Activity] Completely Wide Open\n8:00am to 11:00pm\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-27T06:00:00",
+          "end": "2026-05-27T21:00:00",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "date": "2026-05-28",
+      "city": "Panzano In Chianti",
+      "title": "La Massa Winery",
+      "summary": "3 TripIt items scheduled for this day.",
+      "route": {
+        "from": "Tenuta La Massa; Via Case Sparse (Panzano), 9, Panzano In Chianti, Italy",
+        "to": "Via Fiorentina, 63, Castellina in Chianti, Italy",
+        "mode": "Directions",
+        "distance": "Open map",
+        "time": "Live"
+      },
+      "events": [
+        {
+          "time": "9:30 AM",
+          "title": "La Massa Winery",
+          "location": "Tenuta La Massa; Via Case Sparse (Panzano), 9, 50022 Panzano In Chianti FI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\nThu, May 28\n11:30 AM CEST\n[Activity] La Massa Winery\nVia Case Sparse (Panzano), 9, 50022 Panzano In Chianti FI, Italy\n11:30am to 12:30pm\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-28T09:30:00",
+          "end": "2026-05-28T10:30:00",
+          "url": ""
+        },
+        {
+          "time": "12:30 PM",
+          "title": "Fontodi",
+          "location": "Fontodi; Località San Leolino, 89, 50022 Greve in Chianti FI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n2:30 PM CEST\n[Activity] Fontodi\nLocalità San Leolino, 89, 50022 Greve in Chianti FI, Italy\n2:30pm to 4:00pm\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-28T12:30:00",
+          "end": "2026-05-28T14:00:00",
+          "url": ""
+        },
+        {
+          "time": "5:15 PM",
+          "title": "Ristorante Albergaccio di Castellina",
+          "location": "Via Fiorentina, 63, 53011 Castellina in Chianti SI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n7:15 PM CEST\n[Restaurant] Ristorante Albergaccio di Castellina\nVia Fiorentina, 63, 53011 Castellina in Chianti SI, Italy\n0577 741042\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-28T17:15:00",
+          "end": "2026-05-28T18:15:00",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "date": "2026-05-29",
+      "city": "Bolgheri",
+      "title": "Azienda Agricola Il Palagio at our villa",
+      "summary": "3 TripIt items scheduled for this day.",
+      "route": {
+        "from": "Località S. Guido, 50, Bolgheri, Italy",
+        "to": "Via Case Sparse (panzano), 38, Panzano In Chianti, Italy",
+        "mode": "Directions",
+        "distance": "Open map",
+        "time": "Live"
+      },
+      "events": [
+        {
+          "time": "8:30 AM",
+          "title": "Ornellaia tasting",
+          "location": "",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\nFri, May 29\n10:30 AM CEST\n[Activity] Ornellaia tasting\n10:30am to 11:30am\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-29T08:30:00",
+          "end": "2026-05-29T09:30:00",
+          "url": ""
+        },
+        {
+          "time": "10:15 AM",
+          "title": "Osteria Enoteca San Guido",
+          "location": "Località S. Guido, 50, 57022 Bolgheri LI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n12:15 PM CEST\n[Restaurant] Osteria Enoteca San Guido\nLocalità S. Guido, 50, 57022 Bolgheri LI, Italy\n0565 749693\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-29T10:15:00",
+          "end": "2026-05-29T11:15:00",
+          "url": ""
+        },
+        {
+          "time": "5:30 PM",
+          "title": "Azienda Agricola Il Palagio at our villa",
+          "location": "Via Case Sparse (panzano), 38, 50022 Panzano In Chianti FI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n7:30 PM CEST\n[Restaurant] Azienda Agricola Il Palagio at our villa\nVia Case Sparse (panzano), 38, 50022 Panzano In Chianti FI, Italy\n338 399 7004\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-29T17:30:00",
+          "end": "2026-05-29T18:30:00",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "date": "2026-05-30",
+      "city": "Panzano In Chianti",
+      "title": "Check-in: Villa MonteLandi",
+      "summary": "3 TripIt items scheduled for this day.",
+      "route": {
+        "from": "Via Case Sparse (panzano), 38, Panzano In Chianti, Italy",
+        "to": "Via Traversa dei Monti, 201, Montalcino, Italy",
+        "mode": "Directions",
+        "distance": "Open map",
+        "time": "Live"
+      },
+      "events": [
+        {
+          "time": "9:00 AM",
+          "title": "Check-out: Azienda Agricola Il Palagio",
+          "location": "Via Case Sparse (panzano), 38, 50022 Panzano In Chianti FI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\nSat, May 30\n11:00 AM CEST\n[Lodging] Depart Azienda Agricola Il Palagio\nCheck-Out: 11:00am\nVia Case Sparse (panzano), 38, 50022 Panzano In Chianti FI, Italy\n338 399 7004\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-30T09:00:00",
+          "end": "2026-05-30T10:00:00",
+          "url": ""
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Check-in: Villa MonteLandi",
+          "location": "Villa MonteLandi, 53024 Montalcino, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n4:00 PM CEST\n[Lodging] Arrive Villa MonteLandi\nCheck-In: 4:00pm\nVilla MonteLandi, 53024 Montalcino, Italy\n+421917825580\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-30T14:00:00",
+          "end": "2026-05-30T15:00:00",
+          "url": ""
+        },
+        {
+          "time": "5:30 PM",
+          "title": "Boccon Divino",
+          "location": "Via Traversa dei Monti, 201, 53024 Montalcino SI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n7:30 PM CEST\n[Restaurant] Boccon Divino\nVia Traversa dei Monti, 201, 53024 Montalcino SI, Italy\n0577 848233\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-30T17:30:00",
+          "end": "2026-05-30T18:30:00",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "date": "2026-05-31",
+      "city": "Montalcino",
+      "title": "Villa MonteLandi private dinner",
+      "summary": "1 TripIt item scheduled for this day.",
+      "route": {
+        "from": "Via Monte Landi, 89, Montalcino, Italy",
+        "to": "Via Monte Landi, 89, Montalcino, Italy",
+        "mode": "Directions",
+        "distance": "Open map",
+        "time": "Live"
+      },
+      "events": [
+        {
+          "time": "5:30 PM",
+          "title": "Villa MonteLandi private dinner",
+          "location": "Via Monte Landi, 89, 53024 Montalcino SI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\nSun, May 31\n7:30 PM CEST\n[Restaurant] Villa MonteLandi private dinner\nVia Monte Landi, 89, 53024 Montalcino SI, Italy\n328 219 8582\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-05-31T17:30:00",
+          "end": "2026-05-31T18:30:00",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "date": "2026-06-01",
+      "city": "Montalcino",
+      "title": "Casanova di Neri Relais wine tasting and lunch",
+      "summary": "1 TripIt item scheduled for this day.",
+      "route": {
+        "from": "Località Poderuccio, Montalcino, Italy",
+        "to": "Località Poderuccio, Montalcino, Italy",
+        "mode": "Directions",
+        "distance": "Open map",
+        "time": "Live"
+      },
+      "events": [
+        {
+          "time": "8:30 AM",
+          "title": "Casanova di Neri Relais wine tasting and lunch",
+          "location": "Località Poderuccio, 53024 Montalcino SI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\nMon, Jun 1\n10:30 AM CEST\n[Restaurant] Casanova di Neri Relais wine tasting and lunch\nLocalità Poderuccio, 53024 Montalcino SI, Italy\n392 944 1837\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-06-01T08:30:00",
+          "end": "2026-06-01T09:30:00",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "date": "2026-06-02",
+      "city": "Bike Ride through Montalcino Countryside",
+      "title": "Bike Ride from Villa MonteLandi to Castiglione del Bosco for Lunch and Wine Tour",
+      "summary": "2 TripIt items scheduled for this day.",
+      "route": {
+        "from": "Bike Ride through Montalcino Countryside",
+        "to": "Castiglion del Bosco, Italy",
+        "mode": "Directions",
+        "distance": "Open map",
+        "time": "Live"
+      },
+      "events": [
+        {
+          "time": "8:30 AM",
+          "title": "Bike Ride from Villa MonteLandi to Castiglione del Bosco for Lunch and Wine Tour",
+          "location": "Bike Ride through Montalcino Countryside",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\nTue, Jun 2\n10:30 AM CEST\n[Activity] Bike Ride from Villa MonteLandi to Castiglione del Bosco for Lunch and Wine Tour\n10:30am to 4:00pm\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-06-02T08:30:00",
+          "end": "2026-06-02T14:00:00",
+          "url": ""
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Osteria La Canonica",
+          "location": "53024 Castiglion del Bosco SI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n1:00 PM CEST\n[Restaurant] Osteria La Canonica\n53024 Castiglion del Bosco SI, Italy\n0577 191 3001\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-06-02T11:00:00",
+          "end": "2026-06-02T12:00:00",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "date": "2026-06-03",
+      "city": "Montalcino",
+      "title": "Tour and Wine Tasting at Le Ragnaie",
+      "summary": "2 TripIt items scheduled for this day.",
+      "route": {
+        "from": "Agriturismo Le Ragnaie; Loc. Le Ragnaie, 264, Montalcino, Italy",
+        "to": "Castello, di, Poggio alle Mura, Italy",
+        "mode": "Directions",
+        "distance": "Open map",
+        "time": "Live"
+      },
+      "events": [
+        {
+          "time": "9:00 AM",
+          "title": "Tour and Wine Tasting at Le Ragnaie",
+          "location": "Agriturismo Le Ragnaie; Loc. Le Ragnaie, 264, 53024 Montalcino SI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\nWed, Jun 3\n11:00 AM CEST\n[Activity] Tour and Wine Tasting at Le Ragnaie\nLoc. Le Ragnaie, 264, 53024 Montalcino SI, Italy\n11:00am to 12:30pm\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-06-03T09:00:00",
+          "end": "2026-06-03T10:30:00",
+          "url": ""
+        },
+        {
+          "time": "5:30 PM",
+          "title": "La Sala dei Grappoli",
+          "location": "Castello, di, 53024 Poggio alle Mura SI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n7:30 PM CEST\n[Restaurant] La Sala dei Grappoli\nCastello, di, 53024 Poggio alle Mura SI, Italy\n0577 877505\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-06-03T17:30:00",
+          "end": "2026-06-03T18:30:00",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "date": "2026-06-04",
+      "city": "Italy",
+      "title": "Val d’Orcia Road Trip",
+      "summary": "1 TripIt item scheduled for this day.",
+      "route": {
+        "from": "Start",
+        "to": "Destination",
+        "mode": "Directions",
+        "distance": "Open map",
+        "time": "Live"
+      },
+      "events": [
+        {
+          "time": "6:00 AM",
+          "title": "Val d’Orcia Road Trip",
+          "location": "",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\nThu, Jun 4\n8:00 AM CEST\n[Activity] Val d’Orcia Road Trip\n8:00am to 11:00pm\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-06-04T06:00:00",
+          "end": "2026-06-04T21:00:00",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "date": "2026-06-05",
+      "city": "Montalcino",
+      "title": "Wine Tour and Tasting at Poggio di Sotto",
+      "summary": "2 TripIt items scheduled for this day.",
+      "route": {
+        "from": "Poggio di Sotto; 1 Localita' Castelnuovo dell'Abate, Montalcino, Italy",
+        "to": "Podere La Buca, 221, Montalcino, Italy",
+        "mode": "Directions",
+        "distance": "Open map",
+        "time": "Live"
+      },
+      "events": [
+        {
+          "time": "12:00 PM",
+          "title": "Wine Tour and Tasting at Poggio di Sotto",
+          "location": "Poggio di Sotto; 1 Localita' Castelnuovo dell'Abate, 53024 Montalcino SI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\nFri, Jun 5\n2:00 PM CEST\n[Activity] Wine Tour and Tasting at Poggio di Sotto\n1 Localita' Castelnuovo dell'Abate, 53024 Montalcino SI, Italy\n2:00pm to 4:00pm\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-06-05T12:00:00",
+          "end": "2026-06-05T14:00:00",
+          "url": ""
+        },
+        {
+          "time": "5:15 PM",
+          "title": "Locanda Demetra & Montalcino Cooking School",
+          "location": "Podere La Buca, 221, 53024 Montalcino SI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n7:15 PM CEST\n[Restaurant] Locanda Demetra & Montalcino Cooking School\nPodere La Buca, 221, 53024 Montalcino SI, Italy\n351 986 0527\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-06-05T17:15:00",
+          "end": "2026-06-05T18:15:00",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "date": "2026-06-06",
+      "city": "Montalcino",
+      "title": "Check-out: Villa MonteLandi",
+      "summary": "4 TripIt items scheduled for this day.",
+      "route": {
+        "from": "Villa MonteLandi, Montalcino, Italy",
+        "to": "Costa S. Giorgio, 6/a, Firenze, Italy",
+        "mode": "Directions",
+        "distance": "Open map",
+        "time": "Live"
+      },
+      "events": [
+        {
+          "time": "8:00 AM",
+          "title": "Check-out: Villa MonteLandi",
+          "location": "Villa MonteLandi, 53024 Montalcino, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\nSat, Jun 6\n10:00 AM CEST\n[Lodging] Depart Villa MonteLandi\nCheck-Out: 10:00am\nVilla MonteLandi, 53024 Montalcino, Italy\n+421917825580\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-06-06T08:00:00",
+          "end": "2026-06-06T09:00:00",
+          "url": ""
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Drop Off Rental Car: AVIS",
+          "location": "Aeroporto Di Firenze Peretola, Firenze, 50127 IT",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n12:00 PM CEST\n[Car Rental] Drop Off AVIS Car Rental\nDrop-Off: 12:00pm\nAeroporto Di Firenze Peretola, Firenze, 50127 IT\n(39) 55315588, Sun - Sat 8:00 AM - 11:00 PM\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-06-06T10:00:00",
+          "end": "2026-06-06T11:00:00",
+          "url": ""
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Check-in: Oro Nero Florence",
+          "location": "122 Via Palazzuolo, Santa Maria Novella, 5, Firenze, 0123, Florence, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n3:00 PM CEST\n[Lodging] Arrive Oro Nero Florence\nCheck-In: 3:00pm\n122 Via Palazzuolo, Santa Maria Novella, 5, Firenze, 0123, Florence, Italy\n+39 333 496 0221\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-06-06T13:00:00",
+          "end": "2026-06-06T14:00:00",
+          "url": ""
+        },
+        {
+          "time": "5:30 PM",
+          "title": "La Leggenda dei Frati",
+          "location": "Costa S. Giorgio, 6/a, 50125 Firenze FI, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n7:30 PM CEST\n[Restaurant] La Leggenda dei Frati\nCosta S. Giorgio, 6/a, 50125 Firenze FI, Italy\n055 068 0545\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-06-06T17:30:00",
+          "end": "2026-06-06T18:30:00",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "date": "2026-06-07",
+      "city": "Florence",
+      "title": "Check-out: Oro Nero Florence",
+      "summary": "3 TripIt items scheduled for this day.",
+      "route": {
+        "from": "FLR",
+        "to": "DEN",
+        "mode": "Flight",
+        "distance": "Open map",
+        "time": "Live"
+      },
+      "events": [
+        {
+          "time": "8:00 AM",
+          "title": "Check-out: Oro Nero Florence",
+          "location": "122 Via Palazzuolo, Santa Maria Novella, 5, Firenze, 0123, Florence, Italy",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\nSun, Jun 7\n10:00 AM CEST\n[Lodging] Depart Oro Nero Florence\nCheck-Out: 10:00am\n122 Via Palazzuolo, Santa Maria Novella, 5, Firenze, 0123, Florence, Italy\n+39 333 496 0221\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-06-07T08:00:00",
+          "end": "2026-06-07T09:00:00",
+          "url": ""
+        },
+        {
+          "time": "8:45 AM",
+          "title": "LX1679 FLR to ZRH",
+          "location": "Florence (FLR)",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n10:45 AM CEST\n[Flight] FLR to ZRH\n \n\nSwiss 1679, Terminal , Gate \n \n\n12:00 PM CEST\nArrive Zurich (ZRH)\nTerminal , Gate , 1h, 15m layover\n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-06-07T08:45:00",
+          "end": "2026-06-07T10:00:00",
+          "url": ""
+        },
+        {
+          "time": "11:15 AM",
+          "title": "LX8508 ZRH to DEN",
+          "location": "Zurich (ZRH)",
+          "description": "View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/375369141\n \n\n1:15 PM CEST\n[Flight] ZRH to DEN\n \n\nSwiss 8508, Terminal , Gate \n \n\n4:15 PM MDT\nArrive Denver (DEN)\nTerminal , Gate \n \n\n \nTripIt - organize your travel at https://www.tripit.com",
+          "start": "2026-06-07T11:15:00",
+          "end": "2026-06-07T22:15:00",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Italy Dashboard Design Samples</title>
+    <link rel="preconnect" href="https://images.unsplash.com" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body class="samples-page">
+    <main class="samples-shell">
+      <header class="samples-header">
+        <a class="back-link" href="./index.html">Back to dashboard</a>
+        <div class="eyebrow">May 19, 2026 - June 7, 2026</div>
+        <h1>Design Directions</h1>
+        <p>
+          Three possible visual personalities for the Italy dashboard. These are intentionally
+          different so your preferences are easier to see.
+        </p>
+      </header>
+
+      <section class="sample-grid" aria-label="Design sample options">
+        <article class="sample-card sample-luxury">
+          <div class="sample-image"></div>
+          <div class="sample-content">
+            <span class="sample-kicker">Direction 1</span>
+            <h2>Luxury Magazine</h2>
+            <p>
+              Large editorial photography, elegant contrast, refined spacing, and a feeling of
+              a private travel dossier.
+            </p>
+            <div class="sample-mini">
+              <span>May 28</span>
+              <strong>La Massa Winery</strong>
+              <small>Panzano in Chianti</small>
+            </div>
+            <a class="sample-button" href="./index.html" data-preview-theme="amalfi">Preview this style</a>
+          </div>
+        </article>
+
+        <article class="sample-card sample-modern">
+          <div class="sample-image"></div>
+          <div class="sample-content">
+            <span class="sample-kicker">Direction 2</span>
+            <h2>Clean Modern Travel</h2>
+            <p>
+              Crisp app-like navigation, lighter surfaces, fast scanning, and a polished companion
+              tool feel for phones.
+            </p>
+            <div class="sample-mini">
+              <span>Jun 1</span>
+              <strong>Casanova di Neri</strong>
+              <small>Lunch and wine tasting</small>
+            </div>
+            <a class="sample-button" href="./index.html" data-preview-theme="terra">Preview this style</a>
+          </div>
+        </article>
+
+        <article class="sample-card sample-classic">
+          <div class="sample-image"></div>
+          <div class="sample-content">
+            <span class="sample-kicker">Direction 3</span>
+            <h2>Classic Italian Old World</h2>
+            <p>
+              Warmer tones, architectural romance, wine-country texture, and a more traditional
+              Italian atmosphere.
+            </p>
+            <div class="sample-mini">
+              <span>May 24</span>
+              <strong>Castello di Meleto</strong>
+              <small>Wedding venue</small>
+            </div>
+            <a class="sample-button" href="./index.html" data-preview-theme="renaissance">Preview this style</a>
+          </div>
+        </article>
+      </section>
+    </main>
+
+    <script>
+      document.querySelectorAll("[data-preview-theme]").forEach((link) => {
+        link.addEventListener("click", () => {
+          localStorage.setItem("italy-dashboard-theme", link.dataset.previewTheme);
+        });
+      });
+    </script>
+  </body>
+</html>
