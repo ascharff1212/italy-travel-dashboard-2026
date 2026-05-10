@@ -1,4 +1,4 @@
-{
+﻿window.ITINERARY_DATA = {
   "importedAt": "2026-05-10",
   "tripName": "Tuscany & Val d'Orcia",
   "dateRange": "May 19 - June 7, 2026",
@@ -53,7 +53,7 @@
       "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=1400&q=82",
       "route": { "from": "DEN", "to": "MUC", "mode": "Flight", "distance": "DEN to MUC", "time": "Overnight" },
       "events": [
-        { "time": "4:05 PM MDT", "type": "Flight", "title": "LH481 · DEN to MUC", "detail": "Arrives Munich at 9:40 AM CEST on May 20.", "location": "Denver International Airport" }
+        { "time": "4:05 PM MDT", "type": "Flight", "title": "LH481 Â· DEN to MUC", "detail": "Arrives Munich at 9:40 AM CEST on May 20.", "location": "Denver International Airport" }
       ]
     },
     {
@@ -99,7 +99,7 @@
       "image": "https://images.unsplash.com/photo-1518098268026-4e89f1a2cd8e?auto=format&fit=crop&w=1400&q=82",
       "route": { "from": "Munich Airport", "to": "Ristorante Oltre Il Giardino", "mode": "Flight + drive", "distance": "~45 km driving after arrival", "time": "~1 hr road time" },
       "events": [
-        { "time": "7:55 AM", "type": "Flight", "title": "LH9436 / Air Dolomiti EN8192 · MUC to FLR", "detail": "Arrives Florence 9:10 AM.", "location": "Munich Airport" },
+        { "time": "7:55 AM", "type": "Flight", "title": "LH9436 / Air Dolomiti EN8192 Â· MUC to FLR", "detail": "Arrives Florence 9:10 AM.", "location": "Munich Airport" },
         { "time": "10:00 AM", "type": "Car", "title": "Pick up AVIS rental car", "detail": "Florence Airport.", "location": "Aeroporto di Firenze Peretola", "private": "+39 055 315588" },
         { "time": "3:00 PM", "type": "Villa", "title": "Check in: Azienda Agricola Il Palagio", "detail": "Via Case Sparse 38, Panzano in Chianti.", "location": "Azienda Agricola Il Palagio", "private": "+39 338 399 7004" },
         { "time": "7:15 PM", "type": "Dinner", "title": "Ristorante Oltre Il Giardino", "detail": "Welcome dinner in Panzano's old town.", "location": "Piazza Gastone Bucciarelli 42, Panzano in Chianti" }
@@ -132,8 +132,8 @@
       "image": "https://images.unsplash.com/photo-1529260830199-42c24126f198?auto=format&fit=crop&w=1400&q=82",
       "route": { "from": "Il Palagio", "to": "Relais il Falconiere", "mode": "Drive", "distance": "~240 km loop", "time": "~4 hr road time" },
       "events": [
-        { "time": "11:30 AM", "type": "Venue", "title": "Castello di Meleto", "detail": "Medieval castle and wine estate in Gaiole in Chianti.", "location": "Località Castello di Meleto, Gaiole in Chianti" },
-        { "time": "4:00 PM", "type": "Venue", "title": "Relais il Falconiere", "detail": "Relais & Chateaux estate outside Cortona.", "location": "Località S. Martino Bocena 370, Cortona" }
+        { "time": "11:30 AM", "type": "Venue", "title": "Castello di Meleto", "detail": "Medieval castle and wine estate in Gaiole in Chianti.", "location": "LocalitÃ  Castello di Meleto, Gaiole in Chianti" },
+        { "time": "4:00 PM", "type": "Venue", "title": "Relais il Falconiere", "detail": "Relais & Chateaux estate outside Cortona.", "location": "LocalitÃ  S. Martino Bocena 370, Cortona" }
       ]
     },
     {
@@ -165,7 +165,7 @@
       "image": "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?auto=format&fit=crop&w=1400&q=82",
       "route": { "from": "Il Palagio", "to": "Ristorante Lamole di Lamole", "mode": "Drive", "distance": "~60 km loop", "time": "~1 hr 35 min road time" },
       "events": [
-        { "time": "11:30 AM", "type": "Wine", "title": "Castello di Ama", "detail": "Lunch and wine tasting.", "location": "Località Ama in Chianti, Gaiole in Chianti" },
+        { "time": "11:30 AM", "type": "Wine", "title": "Castello di Ama", "detail": "Lunch and wine tasting.", "location": "LocalitÃ  Ama in Chianti, Gaiole in Chianti" },
         { "time": "7:30 PM", "type": "Dinner", "title": "Ristorante Lamole di Lamole", "detail": "Estate restaurant above Greve.", "location": "Via Lamole, Greve in Chianti", "private": "+39 342 091 2853" }
       ]
     },
@@ -197,7 +197,7 @@
       "route": { "from": "Il Palagio", "to": "Ristorante Albergaccio di Castellina", "mode": "Drive", "distance": "~30 km loop", "time": "~50 min road time" },
       "events": [
         { "time": "11:30 AM", "type": "Wine", "title": "La Massa Winery", "detail": "Tenuta La Massa in Panzano.", "location": "Via Case Sparse 9, Panzano in Chianti" },
-        { "time": "2:30 PM", "type": "Wine", "title": "Fontodi", "detail": "Organic benchmark estate in the Conca d'Oro.", "location": "Località San Leolino 89, Greve in Chianti" },
+        { "time": "2:30 PM", "type": "Wine", "title": "Fontodi", "detail": "Organic benchmark estate in the Conca d'Oro.", "location": "LocalitÃ  San Leolino 89, Greve in Chianti" },
         { "time": "7:15 PM", "type": "Dinner", "title": "Ristorante Albergaccio di Castellina", "detail": "Dinner in Castellina in Chianti.", "location": "Via Fiorentina 63, Castellina in Chianti", "private": "+39 0577 741042" }
       ]
     },
@@ -214,8 +214,8 @@
       "route": { "from": "Il Palagio", "to": "Bolgheri", "mode": "Drive", "distance": "~295 km loop", "time": "~4 hr 25 min road time" },
       "events": [
         { "time": "10:30 AM", "type": "Wine", "title": "Ornellaia tasting", "detail": "Confirmed by Viola Valdastri.", "location": "Tenuta dell'Ornellaia, Bolgheri" },
-        { "time": "12:15 PM", "type": "Lunch", "title": "Osteria Enoteca San Guido", "detail": "Lunch on the Bolgheri road.", "location": "Località S. Guido 50, Bolgheri", "private": "+39 0565 749693" },
-        { "time": "7:30 PM", "type": "Dinner", "title": "Dinner at the villa · Il Palagio", "detail": "Dinner back at the villa.", "location": "Via Case Sparse 38, Panzano in Chianti" }
+        { "time": "12:15 PM", "type": "Lunch", "title": "Osteria Enoteca San Guido", "detail": "Lunch on the Bolgheri road.", "location": "LocalitÃ  S. Guido 50, Bolgheri", "private": "+39 0565 749693" },
+        { "time": "7:30 PM", "type": "Dinner", "title": "Dinner at the villa Â· Il Palagio", "detail": "Dinner back at the villa.", "location": "Via Case Sparse 38, Panzano in Chianti" }
       ]
     },
     {
@@ -263,7 +263,7 @@
       "image": "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?auto=format&fit=crop&w=1400&q=82",
       "route": { "from": "Villa MonteLandi", "to": "Casanova di Neri", "mode": "Drive", "distance": "~20 km loop", "time": "~36 min road time" },
       "events": [
-        { "time": "10:30 AM", "type": "Wine", "title": "Casanova di Neri Relais", "detail": "Wine tasting and lunch.", "location": "Località Poderuccio, Montalcino" }
+        { "time": "10:30 AM", "type": "Wine", "title": "Casanova di Neri Relais", "detail": "Wine tasting and lunch.", "location": "LocalitÃ  Poderuccio, Montalcino" }
       ]
     },
     {
@@ -365,9 +365,11 @@
       "route": { "from": "FLR", "to": "DEN", "mode": "Flight", "distance": "FLR to ZRH to DEN", "time": "Arrive 4:15 PM MDT" },
       "events": [
         { "time": "10:00 AM", "type": "Hotel", "title": "Check out: Oro Nero Florence", "detail": "Final checkout.", "location": "Oro Nero Florence" },
-        { "time": "10:45 AM", "type": "Flight", "title": "LX1679 · FLR to ZRH", "detail": "Arrives Zurich 12:00 PM.", "location": "Florence Airport" },
-        { "time": "1:15 PM", "type": "Flight", "title": "LX8508 · ZRH to DEN", "detail": "Arrives Denver 4:15 PM MDT.", "location": "Zurich Airport" }
+        { "time": "10:45 AM", "type": "Flight", "title": "LX1679 Â· FLR to ZRH", "detail": "Arrives Zurich 12:00 PM.", "location": "Florence Airport" },
+        { "time": "1:15 PM", "type": "Flight", "title": "LX8508 Â· ZRH to DEN", "detail": "Arrives Denver 4:15 PM MDT.", "location": "Zurich Airport" }
       ]
     }
   ]
 }
+;
+
