@@ -1,8 +1,9 @@
 import { createReadStream, existsSync, statSync } from "node:fs";
 import { createServer } from "node:http";
-import { extname, join, normalize } from "node:path";
+import { dirname, extname, join, normalize, resolve } from "node:path";
+import { fileURLToPath } from "node:url";
 
-const root = new URL(".", import.meta.url).pathname;
+const root = dirname(fileURLToPath(import.meta.url));
 const port = Number.parseInt(process.env.PORT || "4177", 10);
 
 const types = {
@@ -16,7 +17,8 @@ const types = {
 function fileFor(urlPath) {
   const requested = decodeURIComponent(urlPath.split("?")[0]);
   const clean = normalize(requested === "/" ? "/index.html" : requested).replace(/^(\.\.[/\\])+/, "");
-  return join(root, clean);
+  const resolved = resolve(join(root, clean));
+  return resolved.startsWith(root) ? resolved : join(root, "index.html");
 }
 
 createServer((request, response) => {
